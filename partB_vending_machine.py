@@ -1,0 +1,5 @@
+print("1. Crisps - 100p")
+print("2. Chocolate - 150p")
+print("3. Water - 120p")
+print("4. Quit")
+user_choice = int(input("Please select an option: "))
